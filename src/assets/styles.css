@@ -1,0 +1,6 @@
+/* src/assets/styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Agrega estilos adicionales aquí si lo deseas */
